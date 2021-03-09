@@ -8,11 +8,11 @@
 # URL VARIABLES
 #
 # url is your gh-pages base, following the pattern: username.github.io
-url: https://brockdsl.github.io
+url: https://BrockDSL.github.io
 # baseurl is your github repository's name prefixed with a /
-baseurl: /digital_project_showcase
+baseurl: /Digital_Project_Showcase
 # location of code, the full url to your github repository
-source-code: https://github.com/brockdsl/digital_project_showcase
+source-code: https://github.com/BrockDSL/Digital_Project_Showcase
 
 ##########
 # SITE SETTINGS
