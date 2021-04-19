@@ -96,7 +96,9 @@
             }
             fields += '<dt class="field">{{ f.display_name }}:</dt> <dd class="field-value">' + browseLinks + '</dd>';
         }
-        {%- else -%}
+        {%- elsif f.browse_link == "url"  -%}
+        if (record[{{ f.field | escape | jsonify }}]) { fields += '<dt class="field">{{ f.display_name }}:</dt> <dd class="field-value"><a class="text-primary" href=' + record[{{ f.field | escape | jsonify }}] + '">'+ record[{{ f.field | escape | jsonify }}] + '</a></dd>'; }
+        {% else %}
         if (record[{{ f.field | escape | jsonify }}]) { fields += '<dt class="field">{{ f.display_name }}:</dt> <dd class="field-value">' + record[{{ f.field | escape | jsonify }}] + '</dd>'; }
         {% endif %}{% endfor %}
         fields += '</dl>';
