@@ -12,7 +12,7 @@ permalink: /about.html
 
 ## About the Digital Showcase
 
-The Brock University Digital Showcase is a collection of digital projects produced at Brock University by faculty, staff, and students.  This colection is put together and managed by the Brock University Digital Scholarshio Lab.  The purpose of this showcase is to create a timeline and record of these projects in one location.  In addition, this showcase can be used to gather information on the production of digital projects at Brock by way of the metadata download options provided by using collection builder.
+The Brock University Digital Showcase is a collection of digital projects produced at Brock University by faculty, staff, and students.  This collection is put together and managed by the Brock University Digital Scholarship Lab.  The purpose of this showcase is to create a timeline and record of these projects in one location.  In addition, this showcase can be used to gather information on the production of digital projects at Brock by way of the metadata download options provided by using collection builder.
 
 ## About the Brock University Digital Scholarship Lab
 
